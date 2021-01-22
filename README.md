@@ -1,3 +1,4 @@
+![alt text](https://github.com/kmann3/kmann3/blob/main/Etherpunk%20Monkey_192.png.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Kennith (Kenny) Mann</h1>
 <h3 align="center">That weird developer dude</h3>
 
