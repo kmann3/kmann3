@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kmann3/](https://github.com/kmann3/)
 
-- 📝 I rarely write articles on [https://blog.etherpunk.com](https://blog.etherpunk.com)
+- 📝 I rarely write articles on [https://www.etherpunk.com](https://www.etherpunk.com) - usually just stuff I like.
 
 - 💬 Ask me about **all the things**
 
